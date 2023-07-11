@@ -1,0 +1,19 @@
+/* Стили для блоков  */
+.item {
+    width: 250px;
+    display: flex;
+    height: 250px;
+    background: wheat;
+    border: red 10px solid;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 10px;
+}
+
+ 
+.container {
+    /* Код из видео */
+}
+
